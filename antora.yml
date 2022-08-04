@@ -1,0 +1,10 @@
+name: ChRISDocs
+title: Antora docs
+version: pman
+start_page: ROOT:pman_README.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- modules/ROOT/nav.adoc
